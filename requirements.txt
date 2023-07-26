@@ -8,7 +8,7 @@ bracex==2.1.1 \
     --hash=sha256:01f715cd0ed7a622ec8b32322e715813f7574de531f09b70f6f3b2c10f682425 \
     --hash=sha256:64e2a6d14de9c8e022cf40539ac8468ba7c4b99550a2b05fc87fd20e392e568f
     # via wcmatch
-certifi==2021.5.30 \
+certifi==2023.7.22 \
     --hash=sha256:2bbf76fd432960138b3ef6dda3dde0544f27cbf8546c458e60baf371917ba9ee \
     --hash=sha256:50b1e4f8446b06f41be7dd6338db18e0990601dce795c2b1686458aa7e8fa7d8
     # via requests
