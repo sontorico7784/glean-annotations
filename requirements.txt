@@ -25,7 +25,7 @@ click==8.0.3 \
 ghp-import==2.0.1 \
     --hash=sha256:753de2eace6e0f7d4edfb3cce5e3c3b98cd52aadb80163303d1d036bda7b4483
     # via mkdocs
-idna==2.10 \
+idna==3.7 \
     --hash=sha256:b307872f855b18632ce0c21c5e45be78c0ea7ae4c15c828c20788b26921eb3f6 \
     --hash=sha256:b97d804b1e9b523befed77c48dacec60e6dcb0b5391d57af6a65a312a90648c0
     # via requests
